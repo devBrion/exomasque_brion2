@@ -1,0 +1,20 @@
+{
+    "name": "celine/exo8-masque",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^4.6",
+        "components/jquery": "^3.5"
+    },
+    "license": "GPL 3.0",
+    "authors": [
+        {
+            "name": "Celine Brion",
+            "email": "brionceline@live.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Source\\": "./"
+        }
+    }
+}
